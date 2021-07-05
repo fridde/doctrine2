@@ -45,6 +45,7 @@ Reference Guide
    reference/partial-objects
    reference/xml-mapping
    reference/annotations-reference
+   reference/attributes-reference
    reference/php-mapping
    reference/caching
    reference/improving-performance
