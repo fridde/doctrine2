@@ -41,6 +41,7 @@ Mapping Objects onto a Database
 
 * **Drivers**:
   :doc:`Docblock Annotations <reference/annotations-reference>` |
+  :doc:`Attributes <reference/attributes-reference>` |
   :doc:`XML <reference/xml-mapping>` |
   :doc:`PHP <reference/php-mapping>`
 
