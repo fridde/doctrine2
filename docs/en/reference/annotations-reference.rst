@@ -113,7 +113,9 @@ Optional attributes:
 -  **unique**: Boolean value to determine if the value of the column
    should be unique across all rows of the underlying entities table.
 
--  **nullable**: Determines if NULL values allowed for this column. If not specified, default value is false.
+-  **nullable**: Determines if NULL values allowed for this column. 
+    If not specified, default value is the nullability of the variable's 
+    type hint (e.g. ?int) or, if not specified either, false.
 
 -  **options**: Array of additional options:
 
